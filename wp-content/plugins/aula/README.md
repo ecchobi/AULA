@@ -1,2 +1,2 @@
-# plugin_calculadora
+# plugin
 # AULA
